@@ -316,12 +316,10 @@ footer p i.fa-github {
 
     nav {
         transform: translateX(-100%);
-        /* Esconde o menu */
     }
 
     nav.active {
         transform: translateX(0);
-        /* Mostra o menu */
     }
 
     .hamburger {
