@@ -330,3 +330,28 @@ footer p i.fa-github {
         margin: 0 auto;
     }
 }
+
+#projetos .projeto {
+    max-width: 750px;
+    margin-left: 1.5rem;
+}
+
+#projetos .projeto h4 {
+    margin-bottom: 0.5rem;
+}
+
+#projetos ul {
+    margin: 1rem 0 1rem 1.5rem;
+}
+
+#projetos a {
+    font-weight: 700;
+    color: var(--color-detalhes);
+    text-decoration: none;
+}
+
+#experiencia-profissional .contexto {
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
